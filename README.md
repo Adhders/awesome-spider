@@ -11,14 +11,7 @@
 * [Bilibili 视频](https://github.com/airingursb/bilibili-video)
 * [Bilibili 小视频](https://github.com/AngelKitty/bilibili-smallvideo)
 * [Bing美图爬虫](https://github.com/zhangzp9970/GnomeBingLockScreen)
-* [B站760万视频信息爬虫](https://github.com/chenjiandongx/bili-spider)
-* [博客园(node.js)](https://github.com/chokcoco/cnblogSpider)
-* [百度百科(node.js)](https://github.com/nswbmw/micro-scraper)
-* [北邮人水木清华招聘](https://github.com/Marcus-T/Crawler_Job)
-* [百度云网盘](https://github.com/gudegg/yunSpider)
-* [琉璃神社爬虫](https://github.com/Chion82/hello-old-driver)
-* [Boss 直聘](https://github.com/xianyunyh/spider_job)
-* [贝壳网找房爬虫](https://github.com/qzcool/Ke)
+* [B站760万视频信息爬虫](http
 
 ### C
 * [cnblog](https://github.com/jackgitgz/CnblogsSpider)
@@ -28,18 +21,13 @@
 * [豆瓣读书](https://github.com/lanbing510/DouBanSpider)
 * [豆瓣爬虫集](https://github.com/dontcontactme/doubanspiders)
 * [豆瓣害羞组](https://github.com/rockdai/haixiu)
-* [豆瓣图书广度爬取](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E8%B1%86%E7%93%A3%E5%9B%BE%E4%B9%A6%E6%B7%B1%E5%BA%A6%E7%88%AC%E5%8F%96)
-* [DNS记录和子域名](https://github.com/TheRook/subbrute)
-* [DHT网络磁力种子爬虫](https://github.com/chenjiandongx/magnet-dht)
-* [抖音](https://github.com/Python3WebSpider/DouYin)
+
 
 ### E
 * [E绅士](https://github.com/shuiqukeyou/E-HentaiCrawler)
 
 ### G
 * [Girl-atlas](https://github.com/pein0119/girl-atlas-crawler)
-* [girl13](https://github.com/xuelangcxy/girlCrawler)
-* [github trending](https://github.com/bonfy/github-trending)
 * [Github 仓库及用户分析爬虫](https://github.com/chenjiandongx/Github)
 * [国家统计用区划代码和城乡划分代码爬虫](https://github.com/dta0502/NBSPRC-spider)
 
